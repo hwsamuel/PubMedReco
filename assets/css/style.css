@@ -1,0 +1,60 @@
+.logos img
+{
+	height: 50px;
+}
+.label-light-gray
+{
+	background: #CCC;
+	color: #555;
+}
+.scores-display
+{
+	height: 200px;
+}
+.grid-wrapper
+{
+	overflow-y: auto;
+}
+#settings
+{
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+#settings td
+{
+	padding: 2px;
+}
+#right-area
+{
+	margin-top: 30px;
+}
+#keywords-area
+{
+	height: 235px;
+}
+#recommend
+{
+	height: 170px;
+}
+#chat-wrap
+{ 
+	border: 2px solid #eee;
+	margin: 0 0 5px 0;
+}
+#chat-area
+{ 
+	height: 220px; 
+	overflow: auto; 
+	padding: 20px; 
+	background: #fff;
+}
+#chat-area span
+{ 
+	margin: 0 5px 0 0;
+}
+#chat-area p
+{ 
+	padding-bottom: 20px;
+	padding-top: 5px; 
+	border-bottom: 1px solid #eee;
+}
