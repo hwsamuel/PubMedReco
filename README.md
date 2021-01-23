@@ -13,6 +13,8 @@ Real-time chat web app that recommends PubMed citations relevant to the conversa
 
 # Demo
 
+A working [live web app](http://199.116.235.207:82/pubmedreco/) is available for demo purposes.
+
 ![PubMedReco Web App Demo](demo.png)
 
 
