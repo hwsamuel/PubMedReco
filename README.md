@@ -1,4 +1,4 @@
-# PubMedReco
+# PubMedReco Citations Recommender [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 Real-time chat web app that recommends PubMed citations relevant to the conversation thread. This code is for research purposes, please cite the following publication (DOI: [10.3233/978-1-61499-830-3-207](https://dx.doi.org/10.3233/978-1-61499-830-3-207 )) when modifying or using this source code.
 
 ```
